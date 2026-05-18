@@ -4,8 +4,10 @@ def ordenar_burbuja_descendente(arreglo):
     """
     longitud = len(arreglo)
 
+    # Recorre todos los elementos de la lista
     for i in range(longitud):
         for j in range(0, longitud - i - 1):
+            # Compara el elemento actual con el siguiente
             if arreglo[j] < arreglo[j + 1]:
                 arreglo[j], arreglo[j + 1] = arreglo[j + 1], arreglo[j]
 
