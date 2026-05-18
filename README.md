@@ -33,8 +33,8 @@ Desarrollar un algoritmo para calcular el determinante de una matriz NxN. La mat
 
 | Item | Archivo |
 |---|---|
-| 💻 Código | En desarrollo |
-| 📄 Informe | En desarrollo |
+| 💻 Código | [ejercicio2_determinante.py](ejercicios/ejercicio2_determinante.py) |
+| 📄 Informe | [ejercicio2_informe.pdf](docs/ejercicio2_informe.pdf) |
 
 ---
 
