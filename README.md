@@ -50,7 +50,7 @@ Para N estudiantes se requiere calcular:
 | Item | Archivo |
 |---|---|
 | 💻 Código |[ejercicio3_admision.py](ejercicios/ejercicio3_admision.py) |
-| 📄 Informe | [test_admision.py](ejercicios/test_admision.py) |
+| 📄 Informe | [ejercicio3_informe.pdf](docs/ejercicio3_informe.pdf) |
 
 ---
 
@@ -62,8 +62,8 @@ Elaborar un algoritmo que forme una matriz de N*M elementos donde cada elemento 
 
 | Item | Archivo |
 |---|---|
-| 💻 Código | En desarrollo |
-| 📄 Informe | En desarrollo |
+| 💻 Código |  [ejercicio4_ventas.py](ejercicios/ejercicio4_ventas.py)|
+| 📄 Informe | [ejercicio4_informe.pdf](docs/ejercicio4_informe.pdf)|
 
 ---
 
