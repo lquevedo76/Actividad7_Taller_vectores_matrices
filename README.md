@@ -49,8 +49,8 @@ Para N estudiantes se requiere calcular:
 
 | Item | Archivo |
 |---|---|
-| 💻 Código | En desarrollo |
-| 📄 Informe | En desarrollo |
+| 💻 Código |[ejercicio3_admision.py](ejercicios/ejercicio3_admision.py) |
+| 📄 Informe | [test_admision.py](ejercicios/test_admision.py) |
 
 ---
 
