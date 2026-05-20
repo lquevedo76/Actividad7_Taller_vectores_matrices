@@ -72,7 +72,5 @@ Elaborar un algoritmo que actualice la tabla de clasificación del Campeonato Pr
 
 | Item | Archivo |
 |---|---|
-| 💻 Código | En desarrollo |
-| 📄 Informe | En desarrollo |
-
----
+| 💻 Código | [ejercicio5_futbol.py](ejercicios/ejercicio5_futbol.py) |
+| 📄 Informe | [ejercicio5_informe.pdf](docs/ejercicio5_informe.pdf) |
