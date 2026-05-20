@@ -24,6 +24,7 @@ Elaborar un algoritmo que genere un arreglo de N elementos y los ordene de mayor
 | Item | Archivo |
 |---|---|
 | 💻 Código | [ejercicio1_burbuja.py](ejercicios/ejercicio1_burbuja.py) |
+| 🧪 Test | [test_burbuja.py](ejercicios/test_burbuja.py) |
 | 📄 Informe | [ejercicio1_informe.pdf](docs/ejercicio1_informe.pdf) |
 
 ---
@@ -34,6 +35,7 @@ Desarrollar un algoritmo para calcular el determinante de una matriz NxN. La mat
 | Item | Archivo |
 |---|---|
 | 💻 Código | [ejercicio2_determinante.py](ejercicios/ejercicio2_determinante.py) |
+| 🧪 Test | [test_matrix.py](ejercicios/test_matrix.py) |
 | 📄 Informe | [ejercicio2_informe.pdf](docs/ejercicio2_informe.pdf) |
 
 ---
@@ -50,6 +52,7 @@ Para N estudiantes se requiere calcular:
 | Item | Archivo |
 |---|---|
 | 💻 Código |[ejercicio3_admision.py](ejercicios/ejercicio3_admision.py) |
+| 🧪 Test | [test_admision.py](ejercicios/test_admision.py) |
 | 📄 Informe | [ejercicio3_informe.pdf](docs/ejercicio3_informe.pdf) |
 
 ---
@@ -63,6 +66,7 @@ Elaborar un algoritmo que forme una matriz de N*M elementos donde cada elemento 
 | Item | Archivo |
 |---|---|
 | 💻 Código |  [ejercicio4_ventas.py](ejercicios/ejercicio4_ventas.py)|
+| 🧪 Test | [test_ventas.py](ejercicios/test_ventas.py) |
 | 📄 Informe | [ejercicio4_informe.pdf](docs/ejercicio4_informe.pdf)|
 
 ---
@@ -73,4 +77,5 @@ Elaborar un algoritmo que actualice la tabla de clasificación del Campeonato Pr
 | Item | Archivo |
 |---|---|
 | 💻 Código | [ejercicio5_futbol.py](ejercicios/ejercicio5_futbol.py) |
+| 🧪 Test | [test_futbol.py](ejercicios/test_futbol.py) |
 | 📄 Informe | [ejercicio5_informe.pdf](docs/ejercicio5_informe.pdf) |
